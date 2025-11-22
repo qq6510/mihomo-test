@@ -158,7 +158,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -578,7 +577,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4308,6 +4306,7 @@
 +.chinademocrats.org
 +.chinadialogue.net
 +.chinadigitaltimes.net
++.chinaeconomicr+.aaa
 +.chinaeconomicreview.com
 +.chinaelections.org
 +.chinaeweekly.com
@@ -5130,6 +5129,7 @@
 +.darknaija.com
 +.darkness-risen.com
 +.darknessporn.com
++.darknessporom
 +.darknun.com
 +.darksidemagazine.com
 +.darktech.org
@@ -5348,6 +5348,7 @@
 +.deviantclip.com
 +.devilsfilm.com
 +.devm2m.com
++.devops1password.drift.click
 +.devopsassessment.net
 +.devopsms.com
 +.devpn.com
@@ -6616,6 +6617,7 @@
 +.every1dns.net
 +.everydayporn.co
 +.evgld7cg58l8.com
++.eview.com
 +.evilangel.com
 +.evise.com
 +.evolver.com
@@ -13456,6 +13458,7 @@
 +.mz
 +.mzed.com
 +.mzstatic.com
++.n.com
 +.n0vadesktop.com
 +.n15zev3w.shop
 +.n26.com
@@ -19975,6 +19978,7 @@
 +.voicettank.org
 +.vokevr.com
 +.volvo
++.volvo.cale.com
 +.volvo.com
 +.volvobrandshop.com
 +.volvobuses.co

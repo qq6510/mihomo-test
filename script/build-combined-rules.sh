@@ -23,11 +23,6 @@ declare -A RULES=(
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
     "
     [Proxy]="sort-clash.py
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list

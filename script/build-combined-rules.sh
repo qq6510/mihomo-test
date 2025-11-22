@@ -15,14 +15,7 @@ error() {
 # 定义规则源和对应的处理脚本
 declare -A RULES=(
     [Ad]="sort-adblock.py
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt
-        https://raw.githubusercontent.com/ghvjjjj/adblockfilters/main/rules/adblockdnslite.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
+        https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
     "
     [Proxy]="sort-clash.py
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list

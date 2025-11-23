@@ -158,6 +158,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -577,6 +578,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4306,7 +4308,6 @@
 +.chinademocrats.org
 +.chinadialogue.net
 +.chinadigitaltimes.net
-+.chinaeconomicr+.aaa
 +.chinaeconomicreview.com
 +.chinaelections.org
 +.chinaeweekly.com
@@ -5129,7 +5130,6 @@
 +.darknaija.com
 +.darkness-risen.com
 +.darknessporn.com
-+.darknessporom
 +.darknun.com
 +.darksidemagazine.com
 +.darktech.org
@@ -5348,7 +5348,6 @@
 +.deviantclip.com
 +.devilsfilm.com
 +.devm2m.com
-+.devops1password.drift.click
 +.devopsassessment.net
 +.devopsms.com
 +.devpn.com
@@ -6617,7 +6616,6 @@
 +.every1dns.net
 +.everydayporn.co
 +.evgld7cg58l8.com
-+.eview.com
 +.evilangel.com
 +.evise.com
 +.evolver.com
@@ -9229,6 +9227,7 @@
 +.heyzo.com
 +.hf-iphone.com
 +.hf.co
++.hf.space
 +.hg.cool
 +.hgamer.pro
 +.hgsacx.com
@@ -11338,6 +11337,7 @@
 +.kinkypeepz.com
 +.kinmen.travel
 +.kinokuniya.com
++.kinopoisk-ru.clstorage.net
 +.kir2kos.net
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
@@ -13458,7 +13458,6 @@
 +.mz
 +.mzed.com
 +.mzstatic.com
-+.n.com
 +.n0vadesktop.com
 +.n15zev3w.shop
 +.n26.com
@@ -13513,6 +13512,7 @@
 +.namgyal.org
 +.namgyalmonastery.org
 +.namsisi.com
++.namu.wiki
 +.nan-net.com
 +.nanonamad.com
 +.nanopool.org
@@ -15082,6 +15082,7 @@
 +.pickshoesclothes.com
 +.picnik.com
 +.picpost.com
++.picsart.com
 +.picsee.co
 +.picsee.pro
 +.pictet
@@ -19978,7 +19979,6 @@
 +.voicettank.org
 +.vokevr.com
 +.volvo
-+.volvo.cale.com
 +.volvo.com
 +.volvobrandshop.com
 +.volvobuses.co
@@ -20268,6 +20268,8 @@
 +.webtoons.com
 +.webtoonscorp.com
 +.webtype.com
++.webvisor.com
++.webvisor.org
 +.webwarper.net
 +.webworkerdaily.com
 +.wechatlawsuit.com
@@ -21281,6 +21283,7 @@
 +.yaburi.men
 +.yaddal.tv
 +.yadori.club
++.yads.tech
 +.yaeby.info
 +.yaeby.pro
 +.yahoo
@@ -21316,6 +21319,7 @@
 +.yandexadexchange.net
 +.yandexcloud.net
 +.yandexcom.net
++.yandexmetrica.com
 +.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
@@ -21331,6 +21335,7 @@
 +.yarininsuyu.com
 +.yarnpkg.com
 +.yasarang.net
++.yastat.net
 +.yastatic.net
 +.yatong.info
 +.yavtube.com

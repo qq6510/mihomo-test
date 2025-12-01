@@ -15,7 +15,7 @@ error() {
 # 定义规则源和对应的处理脚本
 declare -A RULES=(
     [Ad]="sort-adblock.py
-        https://d.kstore.dev/download/11437/hosts/GoodbyeAds-YouTube-AdBlock-Filter.txt
+        https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
     "
     [Proxy]="sort-clash.py
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list

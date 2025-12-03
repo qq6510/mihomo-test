@@ -1,3 +1,4 @@
++.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -349,7 +350,6 @@
 +.51jav.org
 +.51lieqi.com
 +.51luoben.com
-+.51luobenhdays.com
 +.51luoli.info
 +.51pincha.cc
 +.51tuqiang.com
@@ -578,7 +578,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -805,7 +804,6 @@
 +.adultfilmdatabase.com
 +.adultfreex.com
 +.adultfriendfinder.com
-+.adultgamereviewbm
 +.adultgamereviews.com
 +.adultgames.games
 +.adultgames.me
@@ -1017,7 +1015,6 @@
 +.akamaiedge.net
 +.akamaientrypoint.net
 +.akamaietpcnctest.com
-+.akamaietpcompromisedcnanghai.com
 +.akamaietpcompromisedcnctest.com
 +.akamaietpcompromisedmalwaretest.com
 +.akamaietpmalwaretest.com
@@ -1168,7 +1165,7 @@
 +.alteraforums.com
 +.alteraforums.net
 +.alterauserforum.com
-+.alterauserforum.netlegialasdeverdad.com
++.alterauserforum.net
 +.alterauserforums.com
 +.alterauserforums.net
 +.alternate-tools.com
@@ -1540,6 +1537,7 @@
 +.aplestore.com
 +.aplleipods.com
 +.aplusvpn.com
++.apm
 +.apnews.com
 +.apole.com
 +.apornotube.net
@@ -1880,7 +1878,6 @@
 +.assistirhentai.com
 +.assoass.com
 +.associates-amazon.com
-+.asst.com
 +.assylum.com
 +.astm.org
 +.astrill.com
@@ -2072,7 +2069,6 @@
 +.autodeskmotiongraphicsandmore.com
 +.autodesknews.com
 +.autodeskonline.com
-+.autodeskonline.cothub.blog
 +.autodeskpartner.com
 +.autodeskplm.com
 +.autodeskplm360.com
@@ -2092,7 +2088,6 @@
 +.autodesksubscription.com
 +.autodesksucks.com
 +.autodesksucks.net
-+.autodesktec1password.drift.click
 +.autodesktechdays.com
 +.autodesktechx.com
 +.autodesktinkerbox.com
@@ -3330,7 +3325,6 @@
 +.bmw-worldfinal.com
 +.bmw-yachtsport.com
 +.bmw-yemen.com
-+.bmw..com
 +.bmw.cc
 +.bmw.com
 +.bmw.com.co
@@ -3746,7 +3740,6 @@
 +.busytrade.com
 +.buugaa.com
 +.buy-from-shanghai.com
-+.buy-from-shs.com
 +.buyaapl.com
 +.buyaapl.net
 +.buyaltera.com
@@ -4666,7 +4659,6 @@
 +.cocktailsandcocktalk.com
 +.cockyboys.com
 +.cocoapods.org
-+.coctest.com
 +.code.org
 +.code1984.com
 +.codeberg.org
@@ -6521,7 +6513,6 @@
 +.eroxia.com
 +.eroyakuba.com
 +.ertk.net
-+.erver.com
 +.es
 +.es-visiontimes.com
 +.esbeatsbydrebuy.com
@@ -6635,7 +6626,6 @@
 +.evolver3d.com
 +.evolverpro.com
 +.evozi.com
-+.evropaelire.ocom
 +.evropaelire.org
 +.evschool.net
 +.eworld.com
@@ -8379,7 +8369,6 @@
 +.gi
 +.giantessbooru.com
 +.giantessnight.com
-+.giembla.com
 +.giffgaff.com
 +.giffgaff.design
 +.gifnuki.com
@@ -15234,6 +15223,7 @@
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
++.plestore.cc
 +.plexvpn.pro
 +.plixi.com
 +.plm.org.hk
@@ -17195,7 +17185,6 @@
 +.shiatv.net
 +.shibashuwu.net
 +.shicheng.org
-+.shigagin.cocomments.org
 +.shikorina.net
 +.shiksha.com
 +.shinhangmc.com
@@ -19816,6 +19805,7 @@
 +.vimeocdn.com
 +.vimeogoods.com
 +.vimeoondemand.com
++.vimeostatus.co1password.drift.click
 +.vimeostatus.com
 +.vimperator.org
 +.vincnd.com
@@ -19989,7 +19979,6 @@
 +.voakorea.com
 +.voalingala.com
 +.voandebele.com
-+.voandebele.lan.net
 +.voanews.com
 +.voanoticias.com
 +.voanouvel.com

@@ -1,4 +1,3 @@
-+.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -159,6 +158,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1537,7 +1537,6 @@
 +.aplestore.com
 +.aplleipods.com
 +.aplusvpn.com
-+.apm
 +.apnews.com
 +.apole.com
 +.apornotube.net
@@ -3222,6 +3221,7 @@
 +.bloomsburydesignlibrary.com
 +.blowjobit.com
 +.blowjobqueens.net
++.blox.com
 +.blpcareers.com
 +.blpevents.com
 +.blpprofessional.com
@@ -7991,7 +7991,6 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:wetv.qq.com
 +.full:widgets.stripst.com
-+.full:ztedevices.com
 +.fulldesisex.com
 +.fullerconsideration.com
 +.fullfuli.com
@@ -8514,6 +8513,8 @@
 +.gobeatsye.com
 +.gobet.cc
 +.gobianywhere.com
++.goblocks.com
++.goblox.com
 +.gobuildx.net
 +.gobuyonlinestore.net
 +.gockhuatviet.com
@@ -8571,6 +8572,7 @@
 +.gonzo-movies.com
 +.gonzo.com
 +.goo
++.gooblox.com
 +.good-gay.com
 +.good.news
 +.gooday.xyz
@@ -9841,6 +9843,7 @@
 +.huluteam.com
 +.hulutv.com
 +.huluusa.com
++.humancoexperience.com
 +.humanparty.me
 +.humanrightsbriefing.org
 +.humanrightspressawards.org
@@ -10714,6 +10717,7 @@
 +.ixnxx.tv
 +.ixquick.com
 +.ixsystems.com
++.ixxx.+.aaa
 +.ixxx.com
 +.iyalc.com
 +.iyf.tv
@@ -11645,6 +11649,7 @@
 +.lgappstv.com
 +.lgbt
 +.lgbtq.games
++.lge.co.kr.rexroth
 +.lge.com
 +.lgecareers.com
 +.lghvac.com
@@ -15223,7 +15228,6 @@
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
-+.plestore.cc
 +.plexvpn.pro
 +.plixi.com
 +.plm.org.hk
@@ -16163,6 +16167,8 @@
 +.rbeuroinfo.com
 +.rbgrads.com
 +.rbgraduates.com
++.rblx.co
++.rblx.com
 +.rblx.org
 +.rbmavericks.com
 +.rbnainternational.com
@@ -16172,6 +16178,9 @@
 +.rbspeakup.com
 +.rbx.com
 +.rbxcdn.com
++.rbxinfra.net
++.rbxlabs.com
++.rbxtrk.com
 +.rcl07.xyz
 +.rclon.com
 +.rd.com
@@ -16379,7 +16388,6 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
-+.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -16426,12 +16434,20 @@
 +.rmjdw.com
 +.rmjdw132.info
 +.ro
++.ro-blox.com
 +.ro89.com
 +.road-crew.com
++.roadblocks.com
 +.roadshow.hk
++.roblocks.com
 +.roblox-api.arkoselabs.co
++.roblox-api.arkoselabs.com
++.roblox.cc
 +.roblox.com
++.roblox.net
++.roblox.org
 +.roblox.qq.com
++.roblox.tv
 +.robloxlabs.com
 +.robobat.com
 +.roboforex.com
@@ -16480,6 +16496,8 @@
 +.roughman.net
 +.routerboard.com
 +.routledgehandbooks.com
++.rowblocks.com
++.rowblox.com
 +.royalcams.com
 +.royalsocietypublishing.org
 +.rpglogs.com
@@ -19805,7 +19823,6 @@
 +.vimeocdn.com
 +.vimeogoods.com
 +.vimeoondemand.com
-+.vimeostatus.co1password.drift.click
 +.vimeostatus.com
 +.vimperator.org
 +.vincnd.com

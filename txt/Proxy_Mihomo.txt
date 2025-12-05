@@ -578,6 +578,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -10717,7 +10718,6 @@
 +.ixnxx.tv
 +.ixquick.com
 +.ixsystems.com
-+.ixxx.+.aaa
 +.ixxx.com
 +.iyalc.com
 +.iyf.tv
@@ -11649,7 +11649,6 @@
 +.lgappstv.com
 +.lgbt
 +.lgbtq.games
-+.lge.co.kr.rexroth
 +.lge.com
 +.lgecareers.com
 +.lghvac.com
@@ -16388,6 +16387,7 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
++.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com

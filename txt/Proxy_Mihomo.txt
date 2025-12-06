@@ -18750,6 +18750,7 @@
 +.tig-ol-bitties.live
 +.tigervpn.com
 +.tik-tokapi.com
++.tiktok-row.net
 +.tiktok.com
 +.tiktokcdn-eu.com
 +.tiktokcdn-us.com
@@ -18757,6 +18758,7 @@
 +.tiktokd.net
 +.tiktokd.org
 +.tiktokeu-cdn.com
++.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
 +.tiktokv.com
 +.tiltbrush.com
@@ -21799,6 +21801,7 @@
 +.zopim.com
 +.zorglist.com
 +.zorrovpn.com
++.zotero.org
 +.zozotown.com
 +.zqqpwz.com
 +.zsdxzk.com
